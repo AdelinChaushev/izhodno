@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black ;
+}
+nav{
+    height: 50px;
+    width: 100%;
+    background-color: black ;
+    text-align: center;
+    padding-bottom: 20px;
+    
+}
+#logo{
+    float: left;
+    height: 40px;
+    width: 40px;
+}
+#logo img{
+    
+    height: 40px;
+    width: 40px;
+}
+
+nav .links{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+main{
+    background-color: black;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+}
+div{
+    width:100%;
+}
+div > img{
+   width: 50%;
+   float:left;
+}
+footer{
+    
+}
