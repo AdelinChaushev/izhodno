@@ -1,0 +1,2 @@
+# izhodno
+izhodno po IT
