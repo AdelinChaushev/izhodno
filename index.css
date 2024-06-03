@@ -3,37 +3,7 @@
     padding: 0;
     background-color: black ;
 }
-a{
-    text-decoration: none;
-}
-nav{
-    padding-top: 20px;
-    height: 70px;
-    width: 100%;
-    background-color: black ;
-    
-    padding-bottom: 20px;
-    
-}
-#logo{
-    float: left;
-    height: 40px;
-    width: 40px;
 
-}
-#logo img{
-    
-    height: 40px;
-    width: 40px;
-}
-
-nav .links{
-    text-align: center;
-    color: white;
-    font-size: 35px;
-    padding-left: 20px;
-    padding-bottom: 20px;
-}
 main{
     background-color: black;
     display: grid;
@@ -75,14 +45,4 @@ section > p{
     font-size: 25px;
     color: white;
     width: 50%;
-}
-footer{
-    height: 75px;
-    display: grid;
-    align-content: center;
-    justify-content: center;
-}
-footer  img{
-    width: 70px;
-    height: auto;
 }
